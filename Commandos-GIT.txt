@@ -1,0 +1,9 @@
+yarn create react-app dragonball
+npm install
+yarn install 
+
+git add .
+git commit -m "descrição da linha do tempo"
+git push
+
+
